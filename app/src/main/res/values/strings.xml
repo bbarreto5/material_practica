@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MaterialPractica</string>
+    <string name="action_settings">Settings</string>
+    <string name="agregar_persona">Agregar Persona</string>
+    <string name="Cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <array name="generos">
+        <item>@string/femenino</item>
+        <item>@string/masculino</item>
+    </array>
+</resources>
